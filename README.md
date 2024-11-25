@@ -83,7 +83,6 @@ Thank you for visiting my portfolio repository! Stay tuned for updates. 🌟
 </head>
 <body>
     <div class="heading">
-        
         <h1 class="header">Wollo University</h1>
         <img src="wollo_logo.jfif" class="image">
     </div>
@@ -95,7 +94,6 @@ Thank you for visiting my portfolio repository! Stay tuned for updates. 🌟
             <li><a href="login.html">Login</a></li>
             <li><a href="about.html">About Developer</a></li>
         </ul>
-
     </div>
     <div class="main">
         <h1>College</h1>
@@ -114,19 +112,15 @@ Thank you for visiting my portfolio repository! Stay tuned for updates. 🌟
         <p>The University expanded its reach to Afar in 2012 and provided free scholarships to 100 public employees. The scholarship is offered for undergraduate training in the 25th for the regular extension, and for the 25 in the graduate program for the regular 25 for the extension.</p>
         <h1>Student Grade</h1>
         <p>The Dessie campus consists of College of Natural Sciences, College of Agriculture, College of Medicine and Health Sciences, College of Business and Economics, College of Social Science and Humanities, School of Veterinary Medicine, School of Law and Institute of Teacher Education and Pedagogical Science. The Kombolcha campus is named as Kombolcha Institute of Technology (KIOT) for engineering and informatics.
-
-            The university has finalized all necessary preconditions to launch two online Journals, namely Abyssinia Journal of Science and Technology (AJST) & Abyssinia Journal of Business and Social Sciences (AJBS).</p>
+The university has finalized all necessary preconditions to launch two online Journals, namely Abyssinia Journal of Science and Technology (AJST) & Abyssinia Journal of Business and Social Sciences (AJBS).</p>
     </div>
     <div class="main">
         <h1>Student Grade</h1>
         <img src="wollo_pic.jfif" alt="">
         <p>Currently, Wollo University does not have any online student portal. Therefore, all new and old students may check their exam result through offline.
-
-            The student grade system and the examination results can opt from the university campus offices.</p>
+The student grade system and the examination results can opt from the university campus offices.</p>
     </div>
- 
-
-    <div class="footer">
+ <div class="footer">
         <p><strong>Email:</strong>brukalex.11@gmail.com</p>
     </div>
 </body>
