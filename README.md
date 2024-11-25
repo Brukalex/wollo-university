@@ -1,7 +1,7 @@
 # 🌟 Bruk Alemayehu's Portfolio 🌟  
 
 <div align="center">
-  <img src="https://github.com/Brukalex.png" alt="Bruk Alemayehu" width="150" height="150" style="border-radius: 50%; margin-bottom: 20px;">
+  <img src="https://github.com/Brukalex.png" alt="Bruk Alemayehu" width="150" height="150" style="border-radius: 50%; margin: 20px;">
 </div>  
 
 Welcome to my personal portfolio repository! This is where I showcase my skills, projects, and achievements as a pre-engineering student at **Wollo University, Kombolcha Institute of Technology (Kiot)**. 🚀  
