@@ -67,45 +67,6 @@ Feel free to reach out for collaborations, discussions, or just to connect!
 
 Thank you for visiting my portfolio repository! Stay tuned for updates. 🌟
 
-
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta type="device-width">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>website</title>
-    <link rel="stylesheet" href="style_login.css">
-</head>
-<body>
-    <div class="heading">
-        <h1 class="header">Wollo University</h1>
-        <img src="wollo_logo.jfif">
-    </div>
-    <div class="navbar">
-        <ul>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="#">Notification</a></li>
-            <li><a href="message.html">Message</a></li>
-            <li><a href="Login.html">Login</a></li>
-            <li><a href="about.html">About Developer</a></li>
-        </ul>
-
-  </div>
-    <div class="login">
-        <h1>Username <input type="username" ></h1>
-        <h1>Password <input type="password" ></h1>
-        <button>submit</button>
-    </div>
-    
-    
-
-  <div class="footer">
-        <p><strong>Email:</strong>brukalex.11@gmail.com</p>
-    </div>
-</body>
-</html>
+<a href =" "><h1>Wollo University</a>
 
 
