@@ -67,6 +67,6 @@ Feel free to reach out for collaborations, discussions, or just to connect!
 
 Thank you for visiting my portfolio repository! Stay tuned for updates. 🌟
 
-<a href =" "><h1>Wollo University</a>
+<h1></h1>
 
 
