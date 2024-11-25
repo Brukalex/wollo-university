@@ -68,34 +68,8 @@ Feel free to reach out for collaborations, discussions, or just to connect!
 Thank you for visiting my portfolio repository! Stay tuned for updates. 🌟
 
 
-# 🌟 **Welcome to Wollo University** 🌟  
 
-### **Your Gateway to Knowledge and Excellence**  
-Discover the latest updates, resources, and announcements from Wollo University. Explore our academic offerings and be part of a transformative learning experience.  
-
-![Website Status](https://img.shields.io/website?down_color=red&down_message=Offline&up_color=green&up_message=Online&url=http%3A%2F%2Fbrukalex.github.io%2Fwollo-university)  
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=brukalex.github.io)  
-![License](https://img.shields.io/badge/License-MIT-blue.svg)  
-
----
-
-## 🎓 **About the Project**  
-This GitHub page serves as the digital face of **Wollo University**, providing students, faculty, and visitors with seamless access to essential information. Our mission is to foster learning, innovation, and academic excellence.
 
 🌐 Visit the live site: [brukalex.github.io/wollo-university](http://brukalex.github.io/wollo-university)
 
----
 
-## 🛠️ **Features**
-- Easy access to university updates and resources.  
-- Clean and responsive design for all devices.  
-- Repository for academic documents and guides.  
-- Continuous improvements and updates.  
-
----
-
-## 📖 **Getting Started**
-To clone this repository and contribute:  
-```bash
-git clone https://github.com/brukalex/wollo-university.git
-cd wollo-university
