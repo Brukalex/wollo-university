@@ -67,7 +67,7 @@ Feel free to reach out for collaborations, discussions, or just to connect!
 
 Thank you for visiting my portfolio repository! Stay tuned for updates. 🌟
 
-<h1> My first project</h1></a>
+<h1> This is My project</h1></a>
 
 
 ## http://brukalex.github.io/wollo-university
